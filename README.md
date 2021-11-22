@@ -1,4 +1,4 @@
-# COMP5361-propositional-logic
+# propositional-logic
 
 **COMP 5361 Discrete Structures and Formal Languages**
 
